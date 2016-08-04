@@ -1,0 +1,36 @@
+_repo: A-Second-Book-of-Operas_3770
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krehbiel, Henry Edward
+    alias: Krehbiel, H. E. (Henry Edward)
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '1296'
+    url: http://www.gutenberg.org/2009/agents/1296
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+description: Cover; Front matter; Title page; Copyright page; Body matter; Biblical
+  Operas; Bible Stories in Opera and Oratorio; Rubenstein and His Geistliche Oper;
+  Samson et Dalila; Die Konigin von Saba; Herodiade; Lakme; Pagliacci; Cavalleria
+  Rusticana; The Career of Mascagni; Iris; Madama Butterfly; Der Rosenkavalier; Konigskinder;
+  Boris Godounoff; Madame Sans-Gene; Two Operas by Wolf-Ferrari;
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcc 'MT'
+- GITenberg
+tableOfContents: Biblical operas -- Bible stories in opera and oratorio -- Rubinstein
+  and his "Geistlich oper" -- "Samson et Dalila" -- "Die königin von Saba" -- "Hérodiade"
+  -- "Lakmé" -- "Pagliacci" -- "Cavalleria rusticana" -- The career of Mascagni --
+  "Iris" -- "Madama Butterfly" -- "Der rosenkavalier" -- "Königskinder" -- "Boris
+  Godounoff" -- "Madame Sans-Gêne" and other operas by Giordano -- Two operas by Wolf-Ferrari.
+title: A Second Book of Operas
+url: http://www.gutenberg.org/ebooks/3770
